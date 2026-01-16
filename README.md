@@ -1,2 +1,1 @@
-# taskflow
-Opis analizy wymagań projektu TaskFlow.
+KONFLIKT: wersja FEATURE
