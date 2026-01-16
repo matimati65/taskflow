@@ -1,1 +1,1 @@
-KONFLIKT: wersja MAIN
+KONFLIKT: wersja MAIN + FEATURE
